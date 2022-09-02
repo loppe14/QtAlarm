@@ -1,7 +1,0 @@
-/home/denis/code/alarm/build/CMakeFiles/edit_cache.dir
-/home/denis/code/alarm/build/CMakeFiles/rebuild_cache.dir
-/home/denis/code/alarm/build/source/CMakeFiles/alarm.dir
-/home/denis/code/alarm/build/source/CMakeFiles/edit_cache.dir
-/home/denis/code/alarm/build/source/CMakeFiles/rebuild_cache.dir
-/home/denis/code/alarm/build/source/CMakeFiles/alarm_autogen_timestamp_deps.dir
-/home/denis/code/alarm/build/source/CMakeFiles/alarm_autogen.dir
