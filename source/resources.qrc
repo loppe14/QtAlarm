@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="toggle_on.png">../icons/toggle_on.png</file>
+        <file alias="toggle_off.png">../icons/toggle_off.png</file>
+    </qresource>
+</RCC>
