@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/denis/code/alarm/build/source/alarm_autogen",
+	"CMAKE_BINARY_DIR" : "/home/denis/code/alarm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/denis/code/alarm/build/source",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/denis/code/alarm/source",
+	"CMAKE_SOURCE_DIR" : "/home/denis/code/alarm",
+	"INCLUDE_DIR" : "/home/denis/code/alarm/build/source/alarm_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/denis/code/alarm/icons/toggle_off.png",
+		"/home/denis/code/alarm/icons/toggle_on.png"
+	],
+	"LOCK_FILE" : "/home/denis/code/alarm/build/source/CMakeFiles/alarm_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/denis/qt6/qtbase/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/denis/code/alarm/build/source/CMakeFiles/alarm_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/denis/code/alarm/source/resources.qrc",
+	"VERBOSITY" : 0
+}
