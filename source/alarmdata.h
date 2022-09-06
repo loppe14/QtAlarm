@@ -23,5 +23,10 @@ public:
     void invertStatus(){
         if(_status==Active)_status=Inactive;
         else _status=Active;}
+    bool operator<(const AlarmData &other) const{
+        return _time < other.time()?true:false;
+
+
+    }
 };
 Q_DECLARE_METATYPE(AlarmData);
